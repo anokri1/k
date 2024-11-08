@@ -35,3 +35,48 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft 1.20 with Moobloom</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Minecraft 1.20</h1>
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#moobloom">Moobloom</a></li>
+                <li><a href="#download">Download</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="features">
+            <h2>New Features in Minecraft 1.20</h2>
+            <ul>
+                <li>Enhanced graphics and textures</li>
+                <li>New biomes and structures</li>
+                <li>Improved gameplay mechanics</li>
+            </ul>
+        </section>
+        <section id="moobloom">
+            <h2>Introducing Moobloom</h2>
+            <p>The Moobloom is a new friendly mob that brings color and joy to your Minecraft world. It can be found in flower forests and has unique interactions with players.</p>
+        </section>
+        <section id="download">
+            <h2>Download Minecraft 1.20</h2>
+            <p>Click the button below to download the latest version of Minecraft 1.20.</p>
+            <a href="download-link" class="download-button">Download Now</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Minecraft Community. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
