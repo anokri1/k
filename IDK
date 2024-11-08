@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft 1.20 Full with Moobloom</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Minecraft 1.20</h1>
+    </header>
+    <main>
+        <section id="features">
+            <h2>New Features</h2>
+            <ul>
+                <li>Moobloom: A new flower cow that brings joy!</li>
+                <li>New biomes: Explore the lush landscapes.</li>
+                <li>Updated crafting system: Create more with less!</li>
+                <li>Enhanced mobs: Experience new behaviors.</li>
+            </ul>
+        </section>
+        <section id="moobloom">
+            <h2>Meet the Moobloom</h2>
+            <p>The Moobloom is a friendly addition to your Minecraft world. It can be found in flower forests and is known for its vibrant colors and unique flower patterns.</p>
+            <img src="moobloom.png" alt="Moobloom" />
+        </section>
+        <section id="gameplay">
+            <h2>Gameplay Enhancements</h2>
+            <p>With the introduction of the Moobloom, players can now enjoy new interactions and crafting recipes that utilize the Moobloom's flowers.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Minecraft Community. All rights reserved.</p>
+    </footer>
+</body>
+</html>
